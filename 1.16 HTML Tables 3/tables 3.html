@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Document</title>
+	</head>
+	<body>
+		<center>
+			<h1>Tables 3: Playing with Alignment</h1>
+
+			<table border="1" width="800px" height="600px">
+				<tr>
+					<td alight="left" valign="top">lorem ipsum dolor</td>
+					<td align="left" valign="middle">lorem ipsum dolor</td>
+					<td align="left" valign="bottom">lorem ipsum dolor</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">lorem ipsum dolor</td>
+					<td align="center" valign="middle">lorem ipsum dolor</td>
+					<td align="center" valign="bottom">lorem ipsum dolor</td>
+				</tr>
+				<!--Overarching alignment attribute given in the table row tag applies to all cells contained-->
+				<tr align="right">
+					<td valign="top">lorem ipsum dolor</td>
+					<td valign="middle">lorem ipsum dolor</td>
+					<td valign="bottom">lorem ipsum dolor</td>
+				</tr>
+				<!--each cell given individual alignment attribute, redundant code as the same result can be executed by giving the table-row tag the same propoerty-->
+				<tr>
+					<td valign="top" align="right">lorem ipsum dolor</td>
+					<td valign="middle" align="right">lorem ipsum dolor</td>
+					<td valign="bottom" align="right">lorem ipsum dolor</td>
+				</tr>
+			</table>
+		</center>
+	</body>
+</html>
