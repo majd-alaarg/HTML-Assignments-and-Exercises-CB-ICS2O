@@ -1,6 +1,6 @@
 # HTML Exercises and Assignments
 
-A collection of cool projects and assignments for the HTML 2020/21 unit for the Grade 10 Introduction to Computer Science Course at Colonel By Secondary School (ICS2O). All files are available on repl.it and have previously been revised and marked as complete.
+A collection of assignments and exercises for the HTML 2020/21 unit for the Grade 10 Introduction to Computer Science Course at Colonel By Secondary School (ICS2O). All files are available on repl.it and have previously been revised and marked as complete.
 
 ## Getting Started
 
